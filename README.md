@@ -18,13 +18,13 @@ The HR System is designed to solve common HR challenges such as employee managem
 ## Technologies Used
 
 - **Frontend**: Angular 18, TypeScript, HTML, CSS,Bootstrap
-- **Backend**: Laravel, PHP
+- **Backend**: Laravel 11, PHP
 - **Database**: MySQL
-- **Other Tools**: Docker, Git
+- **Other Tools**: Figma, Postman , Git
 
 ## Team Members
 - Amira Alaa (Team leader)
-- Mohamed Ibrahhim (Project Manager)
+- Mohamed Ibrahim (Project Manager)
 - Noha Sobhy
 - Mahmoud Salama
 - Hossam Rabea 
